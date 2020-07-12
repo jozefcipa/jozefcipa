@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello stranger 👋
+
+I am Jozef Cipa,
+
+- 🙎🏻‍♂️ 21 years old
+- 🇨🇿 currently living in Prague, CZ
+- ⌨️ working at [STRV](https://strv.com)
+- 👨‍💻 using mainly Node.js
+- 🐳 interested in DevOps and cloud architecture
 
 <!--
 **jozefcipa/jozefcipa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
