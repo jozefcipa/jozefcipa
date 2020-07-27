@@ -1,4 +1,4 @@
-### Hello stranger 👋
+### Hi there 👋
 
 I am Jozef Cipa,
 
