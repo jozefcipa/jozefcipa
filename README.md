@@ -1,23 +1,16 @@
-### Hi there 👋
+### Hi, I'm Jozef 👋🏻
 
-I am Jozef Cipa,
-
-- 🇨🇿 Prague, Czech Republic
 - 👨‍💻 Backend Engineer at [STRV](https://strv.com)
-- 🐳 interested in DevOps and cloud architecture
-- ✏️ Occassionaly write something on [Medium](https://jozefcipa.medium.com)
+- 🐳 interested in DevOps, cloud and Kubernetes
+- 👨‍🎓 Certified AWS solutions architect
+- ✏️ Trying to write a [blog](https://jozefcipa.com/blog)
+- 🇨🇿 Prague, Czech Republic
 
-<!--
-**jozefcipa/jozefcipa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<a href="https://www.linkedin.com/in/jozefcipa/">
+  <img src="https://user-images.githubusercontent.com/11503453/155901337-1a415773-55a0-4ca7-8fa1-54d396546565.png">
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://twitter.com/jozef_cipa">
+  <img src="https://user-images.githubusercontent.com/11503453/155901356-cea994c4-c70e-40f7-a5be-f4e7bcca8a64.png">
+</a>
