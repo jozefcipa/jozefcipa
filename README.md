@@ -1,6 +1,6 @@
 ### Hi, I'm Jozef 👋🏻
 
-- 👨‍💻 Backend Engineer at [STRV](https://strv.com)
+- 👨‍💻 Backend Engineer at [Henchman]([https://strv.com](https://henchman.io/))
 - 🐳 interested in DevOps, cloud and Kubernetes
 - 👨‍🎓 Certified AWS solutions architect
 - ✏️ Trying to write a [blog](https://jozefcipa.com/blog)
