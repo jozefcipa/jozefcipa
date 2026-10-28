@@ -3,7 +3,7 @@
   <img alt="Jozef Cipa - software engineer, IoT enthusiast" src="./assets/banner-light.svg" width="100%">
 </picture>
 
-### ▚ Hey, I'm Jozef 👋🏻
+### ▚ About
 
 - 👨‍💻 software engineer at [LexisNexis](https://www.lexisnexis.com/)
 - 🐢 mostly **Node.js** and **TypeScript**, **Go** for side projects
