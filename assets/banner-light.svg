@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, monospace">
-  <text x="64" y="72" font-size="20" fill="#1565C0">&gt; whoami</text>
-  <text x="64" y="140" font-size="64" font-weight="700" fill="#111111" letter-spacing="2">JOZEF CIPA</text>
+  <text x="64" y="72" font-size="20" fill="#1565C0">&gt; echo "hello, world"</text>
+  <text x="64" y="140" font-size="64" font-weight="700" fill="#111111" letter-spacing="2">hello, world</text>
   <text x="64" y="188" font-size="22" fill="#6B6B6B" textLength="449">software engineer · IoT enthusiast</text>
   <rect x="525" y="170" width="12" height="22" fill="#1565C0"><animate attributeName="opacity" values="1;1;0;0" dur="1.2s" repeatCount="indefinite"/></rect>
   <g fill="#1565C0">
