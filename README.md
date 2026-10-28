@@ -28,6 +28,8 @@
 ![ESP32](https://img.shields.io/badge/ESP32-1565C0?style=flat-square&logo=espressif&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-1565C0?style=flat-square&logo=raspberrypi&logoColor=white)
 
+<img src="./assets/divider.svg" alt="" width="100%">
+
 <a href="https://jozefcipa.com"><img src="./assets/btn-website.svg" alt="website" height="44"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://jozefcipa.com/blog"><img src="./assets/btn-blog.svg" alt="blog" height="44"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/jozefcipa"><img src="./assets/btn-linkedin.svg" alt="linkedin" height="44"></a>&nbsp;&nbsp;&nbsp;
