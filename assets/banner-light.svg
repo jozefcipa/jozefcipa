@@ -1,16 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, monospace">
-  <text x="64" y="72" font-size="20" fill="#1565C0">&gt; echo "hello, world"</text>
-  <text x="64" y="140" font-size="64" font-weight="700" fill="#111111" letter-spacing="2">hello, world</text>
-  <text x="64" y="188" font-size="22" fill="#6B6B6B" textLength="449">software engineer · IoT enthusiast</text>
-  <rect x="525" y="170" width="12" height="22" fill="#1565C0"><animate attributeName="opacity" values="1;1;0;0" dur="1.2s" repeatCount="indefinite"/></rect>
-  <g fill="#1565C0">
-    <rect x="936" y="40" width="24" height="24"/><rect x="984" y="40" width="24" height="24"/><rect x="1056" y="40" width="24" height="24"/>
-    <rect x="960" y="64" width="24" height="24"/><rect x="1032" y="64" width="24" height="24"/><rect x="1104" y="64" width="24" height="24"/>
-    <rect x="1008" y="88" width="24" height="24"/><rect x="1080" y="88" width="24" height="24"/>
-    <rect x="984" y="112" width="24" height="24"/><rect x="1032" y="112" width="24" height="24"/><rect x="1104" y="112" width="24" height="24"/>
-    <rect x="1056" y="136" width="24" height="24"/><rect x="1008" y="160" width="24" height="24"/><rect x="1080" y="160" width="24" height="24"/>
-  </g>
-  <g fill="#1565C0" fill-opacity=".35">
-    <rect x="912" y="88" width="24" height="24"/><rect x="960" y="136" width="24" height="24"/><rect x="1128" y="136" width="24" height="24"/><rect x="1128" y="40" width="24" height="24"/><rect x="1032" y="184" width="24" height="24"/>
-  </g>
+  <text x="64" y="84" font-size="22" fill="#1565C0">&gt; whoami</text>
+  <text x="64" y="138" font-size="40" fill="#111111">Jozef</text>
+  <text x="64" y="184" font-size="22" fill="#6B6B6B" textLength="449">software engineer · IoT enthusiast</text>
+  <rect x="525" y="166" width="12" height="22" fill="#1565C0"><animate attributeName="opacity" values="1;1;0;0" dur="1.2s" repeatCount="indefinite"/></rect>
+  <g fill="#1565C0"><rect x="956" y="40" width="20" height="20"/><rect x="1076" y="40" width="20" height="20"/><rect x="976" y="60" width="20" height="20"/><rect x="1056" y="60" width="20" height="20"/><rect x="956" y="80" width="20" height="20"/><rect x="976" y="80" width="20" height="20"/><rect x="996" y="80" width="20" height="20"/><rect x="1016" y="80" width="20" height="20"/><rect x="1036" y="80" width="20" height="20"/><rect x="1056" y="80" width="20" height="20"/><rect x="1076" y="80" width="20" height="20"/><rect x="936" y="100" width="20" height="20"/><rect x="956" y="100" width="20" height="20"/><rect x="996" y="100" width="20" height="20"/><rect x="1016" y="100" width="20" height="20"/><rect x="1036" y="100" width="20" height="20"/><rect x="1076" y="100" width="20" height="20"/><rect x="1096" y="100" width="20" height="20"/><rect x="916" y="120" width="20" height="20"/><rect x="936" y="120" width="20" height="20"/><rect x="956" y="120" width="20" height="20"/><rect x="976" y="120" width="20" height="20"/><rect x="996" y="120" width="20" height="20"/><rect x="1016" y="120" width="20" height="20"/><rect x="1036" y="120" width="20" height="20"/><rect x="1056" y="120" width="20" height="20"/><rect x="1076" y="120" width="20" height="20"/><rect x="1096" y="120" width="20" height="20"/><rect x="1116" y="120" width="20" height="20"/><rect x="916" y="140" width="20" height="20"/><rect x="956" y="140" width="20" height="20"/><rect x="976" y="140" width="20" height="20"/><rect x="996" y="140" width="20" height="20"/><rect x="1016" y="140" width="20" height="20"/><rect x="1036" y="140" width="20" height="20"/><rect x="1056" y="140" width="20" height="20"/><rect x="1076" y="140" width="20" height="20"/><rect x="1116" y="140" width="20" height="20"/><rect x="916" y="160" width="20" height="20"/><rect x="956" y="160" width="20" height="20"/><rect x="1076" y="160" width="20" height="20"/><rect x="1116" y="160" width="20" height="20"/><rect x="976" y="180" width="20" height="20"/><rect x="996" y="180" width="20" height="20"/><rect x="1036" y="180" width="20" height="20"/><rect x="1056" y="180" width="20" height="20"/></g>
 </svg>
