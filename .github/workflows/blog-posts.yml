@@ -17,5 +17,5 @@ jobs:
         with:
           feed_list: 'https://jozefcipa.com/blog/rss.xml'
           max_post_count: 4
-          template: '- [$title]($url)$newline'
+          template: '$newline- [$title]($url)'
           commit_message: 'chore: update latest blog posts'
